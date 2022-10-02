@@ -1,4 +1,4 @@
-# skele_waver_scraper
+# skele_waver_scraper.py
 just dont take my skele
 
 a dumb python script to see if there is a halloween item X that you want. 
