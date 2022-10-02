@@ -1,5 +1,6 @@
 # skele_waver_scraper.py
-just dont take my skele
+(and/or these are sad/sadder times)
+{just dont take my skele}
 
 a dumb? python script? nay program? to see if there is a target halloween item X that you want. 
 selenium
