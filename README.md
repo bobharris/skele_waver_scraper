@@ -18,7 +18,7 @@ reqs:
 * FireFox
 
 todo:
-* fill in the zip code and don't let cookies in.
+* fill in the zip code programatically and don't let cookies in.
 * get scrapin. my dude. 
 
 don't go full darth vader on me with this script. only go half to .75.  the waving skeleton popo's will be on me.
